@@ -1,0 +1,4 @@
+baseURL = "http://fabiolabordese.com/"
+languageCode = "en-us"
+title = "Fabiola Bordese"
+theme = "hugo-story"
